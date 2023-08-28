@@ -1,16 +1,11 @@
-# tarea1_5
+# Tarea1.5 - Contador Reiniciado
 
-A new Flutter project.
+El objetivo del ejercicio siguiente es aprender a utilizar los widgets más comunes.
 
-## Getting Started
+- Agregar un tercer botón que reinicie el contador y lo pase a 0.
+- Cambiar los colores de la aplicación.
+- Cambiar el texto del appbar de la aplicación. 
 
-This project is a starting point for a Flutter application.
+<img width="275" alt="Contador_Reiniciado" src="https://github.com/hdzmtzjenni/AplicacionesMoviles/assets/79679452/aebf3441-ee20-4899-9c68-e9fb896a7ee6">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

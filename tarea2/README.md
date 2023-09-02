@@ -1,16 +1,8 @@
-# tarea2
+# Tarea 2 - App Iteso
 
-A new Flutter project.
+El objetivo del ejercicio siguiente es aprender a utilizar los widgets más comunes replicando una pantalla que previamente se había diseñado como mockup.
 
-## Getting Started
+- Al hacer clic en los botones mostrar snack bars 
+- Cada que se hace clic a un botón este cambia de color entre black e índigo (por ejemplo, si el usuario hace clic en el boton de correo, este se hace de color indigo, y si el usuario hace clic nuevamente el boton regresa a ser color negro).
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

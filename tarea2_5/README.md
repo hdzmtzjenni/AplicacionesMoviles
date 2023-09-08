@@ -1,16 +1,15 @@
-# tarea2_5
+# Tarea2.5 - TipTime
 
-A new Flutter project.
+Se requiere hacer una aplicación con diseño basado en lineamientos de material design, la cual aproveche de manera óptima el espacio en pantalla, además de mostrar al usuario una interfaz con la cual pueda interactuar y navegar dentro de la aplicación.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Esta app consta de una pantalla con un pequeño formulario en el que el usuario ingresa sus datos con un TextField, Radio Buttons y un Switch para hacer un cálculo de propina.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+App para practicar el uso de widgets:
+- Interacción del usuario 
+- Estados
+- Formateo de strings
+- Text Fields
+- Radio group
+- Primary color
+<img width="236" alt="TipTime" src="https://github.com/hdzmtzjenni/AplicacionesMoviles/assets/79679452/41f19af9-4882-47d5-a8e4-0655d58eef35">
